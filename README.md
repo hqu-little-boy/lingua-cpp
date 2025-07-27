@@ -1,6 +1,5 @@
 # Lingua C++
 
-[![Build Status](https://github.com/your-username/lingua-cpp/workflows/CI/badge.svg)](https://github.com/your-username/lingua-cpp/actions)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 A linguistic library for detecting and processing languages in C++, based on the [Lingua](https://github.com/pemistahl/lingua-rs) project.
